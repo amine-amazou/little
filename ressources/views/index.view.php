@@ -1,0 +1,1 @@
+<?php _extends('layouts.master'); _section('content') ?>

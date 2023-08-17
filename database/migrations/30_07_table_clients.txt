@@ -1,0 +1,6 @@
+Clients:
+    .ID $int pk ai
+    .nom $n
+    .prenom $n
+    .ville fk t.villes
+    .timestamps
